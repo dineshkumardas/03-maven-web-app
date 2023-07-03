@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Hello World!</h2>
+<h2><font color='red'>Welcome to Dinesh IT Software Training Institute..!!<font></h2>
 </body>
 </html>
